@@ -1,0 +1,31 @@
+{
+  "name": "homes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "apple-auth": "^1.0.7",
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.2",
+    "coolsms-node-sdk": "^1.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^10.0.2",
+    "js-sha512": "^0.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mariadb": "^2.5.5",
+    "morgan": "^1.10.0",
+    "node-excel-export": "^1.4.4",
+    "path": "^0.12.7",
+    "qs": "^6.10.3",
+    "uniqid": "^5.4.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}

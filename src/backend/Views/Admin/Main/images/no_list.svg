@@ -1,0 +1,30 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 169" width="168" height="169">
+	<title>Vector Smart Object-ai</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="169.207" y1="0.23" x2="169.207" y2="118.439">
+			<stop offset="0" stop-color="#f7f7f7"  />
+			<stop offset="1" stop-color="#d9d9d9"  />
+		</linearGradient>
+		<image width="134" height="85" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAABVCAMAAAC7DWwiAAAAAXNSR0IB2cksfwAAAltQTFRF////AAAA////gICAqqqqgICAv7+/mZmZqqqqtra2qqqqs7OzoqKiqqqqubm5pKSkr6+vrq6urq6ura2tqqqqra2tp6enqqqqqqqqqqqqp6enqqqqrq6uqKioqKiora2tq6urqampqqqqn5+ftLS0ra2tqKioqqqqq6urq6urqqqqqampqqqqqqqqqqqqq6urqampnZ2dpqamqKioqqqqq6urq6urqqqqqampqqqqqqqqqampqampqampqampq6urv7+/sbGxpqamqqqqqqqqq6urq6urq6urqampqqqqqqqqqqqqq6urqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqampqampqampqqqqqqqqqqqqqqqqqampqqqqqampqqqqqampqqqqqampqKioq6urqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq6urqqqq////paWlqampq6urq6urqqqqqqqqqampqqqqqqqqqampqqqqqqqqqqqqqqqqqqqqqqqqpqamqKioqqqqqampqqqqqqqqq6urqqqqqampqqqqqqqqqqqqqKioqqqqq6urqqqqqqqqqqqqq6urqqqqqqqqqKioq6urqqqqqqqqqqqqzMzMq6urq6urq6urqampqqqqqamppaWlqampqqqqq6urqampqqqqq6urqqqqqKioqqqqqampqKioqqqqqampqampqqqqrKysrKysqampqampqampq6urqamprKysq6urkpKSoaGhr6+vqampqampsbGxn5+fsLCwr6+vI+KwjAAAAMl0Uk5TAAEBAgMEBAUGBwkKCwwLDhATFhkbHB0PEh4gJCkvNTg6OzwIESIpOUBGTlZdY2ZnaA0UJkJMVWxze4SMkpWXlwgaKDZUYW15g5Ocoqmxub7BwzBFWm+Aj6e/xsrQ1tvf4eLiSmeCmau6xc7V3+Tm6ezv8fLzAhFihaS8zdnn6/T19vj5+vsrTHKa0eD7/P39/hUsdZ3j9Pf+/ydGapCv8gV0kae4xOUlU36Om8LIzyMzRGGfqcfLJV9xepg9TWhzBxMjPkENEB0giqnPNgAABAFJREFUeJztl2lbElEYhoEZZxpkgkiKyTBSw10IbdMKCMIy0cQWNSPaDBtTIbTFsn2XyEoqo7LFMlu0sk0rQyP9WQ0wBHRJXwbtQ+f+A+e+zvI+z2GxAAAAAAAAAAAAAAAAAPwfsDl/hT0t60MQDMchUYmDYQiaOhu2f30EQWdg3HgeHhVePBebgSKI3ybGKpQDjPjWn4nzBbOEsxNEc6IgSpgtnCXg4zN9NggcSxPKAcW4+FwxtT4xL3G+JGmBdGHypCyULkiSzE+cR1A24rk4F0Mpk5hIsDkwmoKnCkWLZJKktOT0jMys7JxcuVwxCXJ5bk52VmZGenJakkS2SCRMxVNQOBY7woYQbLFSlCdJy1+yNDtHsWz5ioLClatWqyZl9aqVhQUrli9T5GQvXZKfJskTKRdjCMTcg4OoBZo12gzdWn3RusL1quINJYbSso3lUdhYVmoo2VCsWl+4rki/VpehXaMRqBHG58KBMQFhrNi0ecvW4kpDaVV59baa7aYd5p27JmWneYdpe8226vKqUkNl8dYtmzdVGAkBBjP1gFBcY9y9Z2/tPkvdftJUbz7Q0NhktR20R+GgzdrU2HDAXG8i99dZ9tXu3bPbqMFRiOFmNGMtiemHDh852nrMfLzNarOfOHnq9Jmz56Jy9szpUydP2G3WtuPmY61Hjxw+lJ7YgjUz2w4OrFaev3DxkuXylUar3S/Q7rjqvPYXnFcd7X4Zu7XxymXLpYsXzivVDE+F0ui4nnnjZhnZ2WRz3aIsKImgxe07kdymPSgRyuOWy9bUSZbdvJF5vYOxRjMm7rrrvne/mqxvaLM+cIVOpN3hcIZvi9PpoLYheC6uB9a2hnqy+v49990uMdNDYUHdfEKre/jo8ZOeVtJkfhq6n67IS+K/E67ft/Sp2US29jx5/OihTkvwuxleUepUuMpn0l73874XlQbLy1evSfq1dkY+GfqFdAbeLPn61UuLofJF33N3r/SZksv4wbIhlNfRP/Cm962+qKBP9W6Qnl09de8/hA2QwLz48L6uJzDBBt+p+gqK9G973wz0d/BQ5mOU09wdn5rw0TfLsz4pPg8FJvnwcG3kOKWnZ+1wYJ4PfVZ8yvJN848JqfHdTG+G3wNCUvAWX7IZtV8qvtK59s2tHwkLl0CWjOjd3xT+dPta8UVr9GVbC56CxCZjqYhFvlM57xFqiFFZMOXHfoRFbTBZf4zRWS8bJTRCD5X035GYBCwtEmg9PO9PD915xomJ8OJB94wJYjzQfDw/vbyY9x4W3QHjwhqgN7KG0a3LG+qBcVPQAmmV8D78RykNdtBQK57Shh76HURW9N+NfFr+CFGUpn9tAAAAAAAAAAAAAAAAAP+eX5YLnj7p/Q4bAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: #aaaaaa } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="shp0" d="M167.21 52.79C167.21 80.51 145.46 103.38 118.19 105.22L99.92 105.35L97.17 105.35L84.08 118.44L70.99 105.35L53.51 105.35C24.6 105.35 0.95 81.7 0.95 52.79C0.95 23.88 24.6 0.23 53.51 0.23L114.65 0.23C143.55 0.23 167.21 23.88 167.21 52.79Z" />
+			<g id="&lt;Group&gt;" style="opacity: 0.702">
+				<g id="&lt;Group&gt;" style="opacity: 0.251">
+					<use id="&lt;Image&gt;" href="#img1" transform="matrix(1,0,0,1,16.966,115)"/>
+				</g>
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp1" d="M110.19 46.79C113.51 46.79 116.19 49.48 116.19 52.79C116.19 56.1 113.51 58.79 110.19 58.79C106.88 58.79 104.19 56.1 104.19 52.79C104.19 49.48 106.88 46.79 110.19 46.79Z" />
+				<path id="&lt;Path&gt;" class="shp1" d="M63.96 52.79C63.96 56.1 61.28 58.79 57.96 58.79C54.65 58.79 51.96 56.1 51.96 52.79C51.96 49.48 54.65 46.79 57.96 46.79C61.28 46.79 63.96 49.48 63.96 52.79Z" />
+				<path id="&lt;Path&gt;" class="shp1" d="M84.08 46.79C87.39 46.79 90.08 49.48 90.08 52.79C90.08 56.1 87.39 58.79 84.08 58.79C80.76 58.79 78.08 56.1 78.08 52.79C78.08 49.48 80.76 46.79 84.08 46.79Z" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 29" width="33" height="29">
+	<title>Vector Smart Object-ai</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="Layer 1">
+		<path id="&lt;Path&gt;" class="shp0" d="M32.22 2.55L0.22 2.55L0.22 0.05L32.22 0.05L32.22 2.55Z" />
+		<path id="&lt;Path&gt;" class="shp0" d="M32.22 15.55L0.22 15.55L0.22 13.05L32.22 13.05L32.22 15.55Z" />
+		<path id="&lt;Path&gt;" class="shp0" d="M32.22 28.55L0.22 28.55L0.22 26.05L32.22 26.05L32.22 28.55Z" />
+	</g>
+</svg>
